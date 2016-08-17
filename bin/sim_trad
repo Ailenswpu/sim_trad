@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "sim_trad"
+
+puts SimTrad::to_trad(ARGV.join ' ')
