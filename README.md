@@ -18,10 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-1. Translate
-    ➜  ~ sim_trad "你好，我用来测试翻译简体中文"
+1. Translate 
+```ruby
+    ➜  ~ sim_trad "你好，我用来测试翻译简体中文"  
     你好，我用來測試翻譯簡體中文
-
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
